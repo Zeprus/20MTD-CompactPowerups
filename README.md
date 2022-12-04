@@ -4,7 +4,7 @@ A [BepInEx](https://github.com/BepInEx/BepInEx/releases) plugin for changing the
 
 ## Features
 - Removes duplicate powerups display and adds count instead
-<br>![Example](./icon.png)
+<br>![Example](https://github.com/Zeprus/20MTD-CompactPowerups/blob/master/icon.png)
 
 ## Changelog
 - v.1.0.:   Release
