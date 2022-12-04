@@ -1,6 +1,6 @@
 {
     "name": "CompactPowerups",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/Zeprus/20MTD-CompactPowerups",
     "description": "Removes duplicate powerups display and adds count instead.",
     "dependencies": ["BepInExPackMTD-BepInExPack_20MTD-1.0.0"]
