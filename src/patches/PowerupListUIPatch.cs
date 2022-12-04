@@ -14,7 +14,6 @@ namespace CompactPowerups
         [HarmonyPostfix]
         static void OnPowerupAppliedPostfix(PowerupListUI __instance, object sender, object args)
         {
-            Log.LogInfo("Postfix start.");
             Dictionary<string, Transform> powerupDict = new Dictionary<string, Transform>();
             foreach (Transform transform in __instance.transform)
             {
